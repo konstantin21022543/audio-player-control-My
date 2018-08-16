@@ -1,0 +1,27 @@
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\bin\Debug\license.txt
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.XML
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.dll
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.pdb
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csprojResolveAssemblyReference.cache
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.cache
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.lref
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\Themes\Generic.baml
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.g.resources
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.Properties.Resources.resources
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csproj.GenerateResource.Cache
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.dll
+E:\audio-player-control-master\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\bin\Debug\license.txt
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.XML
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\bin\Debug\WPFSoundVisualizationLib.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.cache
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib_MarkupCompile.lref
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\Themes\Generic.baml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.g.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.Properties.Resources.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.csproj.GenerateResource.Cache
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\WPFSoundVisualizationLibrary\obj\Debug\WPFSoundVisualizationLib.pdb

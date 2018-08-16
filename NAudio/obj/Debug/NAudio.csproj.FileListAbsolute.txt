@@ -1,0 +1,30 @@
+E:\audio-player-control-master\NAudio\bin\Debug\NAudio.XML
+E:\audio-player-control-master\NAudio\bin\Debug\NAudio.dll
+E:\audio-player-control-master\NAudio\bin\Debug\NAudio.pdb
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.csprojResolveAssemblyReference.cache
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Gui.Fader.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Gui.Graph.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Gui.LcdPanel.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Gui.PanSlider.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Gui.Pot.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Gui.VolumeSlider.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Gui.WaveViewer.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.Utils.ProgressLog.resources
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.csproj.GenerateResource.Cache
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.dll
+E:\audio-player-control-master\NAudio\obj\Debug\NAudio.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\bin\Debug\NAudio.XML
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\bin\Debug\NAudio.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\bin\Debug\NAudio.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.csprojResolveAssemblyReference.cache
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Gui.Fader.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Gui.Graph.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Gui.LcdPanel.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Gui.PanSlider.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Gui.Pot.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Gui.VolumeSlider.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Gui.WaveViewer.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.Utils.ProgressLog.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.csproj.GenerateResource.Cache
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\NAudio\obj\Debug\NAudio.pdb

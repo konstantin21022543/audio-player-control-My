@@ -1,0 +1,44 @@
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayerControl.csprojResolveAssemblyReference.cache
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayerControl_MarkupCompile.cache
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayer.baml
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\DarkBlue.baml
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\ExpressionDark.baml
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\ExpressionLight.baml
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\WaveFormStyle.baml
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayer.g.cs
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayerControl.g.resources
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayerControl.Properties.Resources.resources
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayerControl.csproj.GenerateResource.Cache
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\license.txt
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\AudioPlayerControl.dll
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\AudioPlayerControl.pdb
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\NAudio.dll
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\WPFSoundVisualizationLib.dll
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\NAudio.pdb
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\NAudio.xml
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\WPFSoundVisualizationLib.pdb
+E:\audio-player-control-master\AudioPlayerControl\bin\Debug\WPFSoundVisualizationLib.xml
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayerControl.dll
+E:\audio-player-control-master\AudioPlayerControl\obj\Debug\AudioPlayerControl.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\license.txt
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\AudioPlayerControl.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\AudioPlayerControl.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\NAudio.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\WPFSoundVisualizationLib.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\NAudio.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\NAudio.xml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\WPFSoundVisualizationLib.pdb
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\bin\Debug\WPFSoundVisualizationLib.xml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayerControl.csprojResolveAssemblyReference.cache
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayer.baml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\DarkBlue.baml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\ExpressionDark.baml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\ExpressionLight.baml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\WaveFormStyle.baml
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayer.g.cs
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayerControl_MarkupCompile.cache
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayerControl.g.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayerControl.Properties.Resources.resources
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayerControl.csproj.GenerateResource.Cache
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayerControl.dll
+G:\desktopC\ЦЗА\audio-player-control-master - Result\AudioPlayerControl\obj\Debug\AudioPlayerControl.pdb
